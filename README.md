@@ -1,10 +1,11 @@
 <h3 align="center">Desarrollador Web Front-End JR</h3>
+<br><br>
 
 👨‍💻 Portfolio [https://fedevcode.com](https://fedevcode.com)
 
-📫 Email **info@fedevcode.com**
-
 📄 Resumen [http://resumen.fedevcode.com](http://resumen.fedevcode.com)
+
+📫 Email **info@fedevcode.com**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
