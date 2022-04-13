@@ -1,5 +1,3 @@
-<h3 align="center">Desarrollador Web Front-End JR</h3>
-
 👨‍💻 Portfolio [https://fedevcode.com](https://fedevcode.com)
 
 📄 Resumen [http://resumen.fedevcode.com](http://resumen.fedevcode.com)
