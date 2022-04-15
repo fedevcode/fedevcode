@@ -1,6 +1,8 @@
 👨‍💻 Portfolio [https://fedevcode.com](https://fedevcode.com)
 
-📄 Resumen [http://resumen.fedevcode.com](http://resumen.fedevcode.com)
+📄 Resumen [http://cv.fedevcode.com](http://cv.fedevcode.com)
+
+📋 Todas mis redes [https://linktr.ee/fedevcode](https://linktr.ee/fedevcode)
 
 📫 Email **info@fedevcode.com**
 
